@@ -1,5 +1,5 @@
 /*
- *  UCF COP3330 Fall 2021 Motivated Exercises 1, exercise01 Solution01
+ *  UCF COP3330 Fall 2021 Assignment 1 exercise01 Solution01
  *  Copyright 2021 Juan Guarnizo
  */
 
